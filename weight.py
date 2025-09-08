@@ -8,6 +8,6 @@ elif unit == "pound":
     result = weight / 2.205
     print(result)
 else:
-    print("choose a weight")
+    print("Please choose a weight")
 
 
